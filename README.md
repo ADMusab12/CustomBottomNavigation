@@ -3,7 +3,7 @@
 A beautiful and modern Android UI showcasing **Wavy Bottom Navigation** and **Fluid Bottom Navigation** components with smooth background color transitions on selection.
 
 <div align="center">
-  <img src="![custom_bottom_nav](https://github.com/user-attachments/assets/b573465b-6cc2-4995-859d-72da38bc7fb0)" alt="Demo GIF" width="500" height="600"/>
+  <img src="https://github.com/user-attachments/assets/b573465b-6cc2-4995-859d-72da38bc7fb0" alt="Demo GIF" width="500" height="600"/>
 </div>
 
 ---
