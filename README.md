@@ -4,8 +4,7 @@ A beautiful and modern Android UI showcasing **Wavy Bottom Navigation** and **Fl
 
 
 <div align="center">
-  <img src="![custom_bottom_nav](https://github.com/user-attachments/assets/a8ef0a00-466d-4698-b707-b5fcc4a90435)
-" alt="Demo GIF" width="500" height="1000"/>
+  <img src="https://github.com/user-attachments/assets/a8ef0a00-466d-4698-b707-b5fcc4a90435" alt="Demo GIF" width="500"/>
 </div>
 
 ---
