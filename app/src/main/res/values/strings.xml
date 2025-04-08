@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">WavyBottomNav</string>
+    <string name="home">Home</string>
+    <string name="explore">Explore</string>
+    <string name="overview">Overview</string>
+    <string name="profile">Profile</string>
+    <string name="settings">Settings</string>
+    <string name="hyphen" />
+    <string name="fluid_bottom_navigation">Fluid Bottom Navigation</string>
+    <string name="wavy_bottom_navigation">Wavy Bottom Navigation</string>
+</resources>
